@@ -1,6 +1,5 @@
 # Redis集群-启停&master和slave的切换
 
-[TOC]
 
 ## 杀掉Redis集群中的所有节点的进程
 
