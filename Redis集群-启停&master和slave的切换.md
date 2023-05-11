@@ -3,7 +3,7 @@
 
 ## 杀掉Redis集群中的所有节点的进程
 
-- 分别获取redis节点的pid**(注：redis集群中的节点的pid一般是不一致的)**
+- 分别获取redis节点的pid(注：redis集群中的节点的pid一般是不一致的)
 
 ```shell
 ps -ef|grep redis
